@@ -3,4 +3,4 @@
 Libraries<br>
 - OpenCV
 - Matplotlib
-- scikitlearn
+- Numpy
