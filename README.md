@@ -1,4 +1,4 @@
-## Image-color-segmentation-using_k_means
+## Image Color Segmenation
 
 Libraries<br>
 - OpenCV
